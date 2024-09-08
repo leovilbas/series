@@ -1,6 +1,6 @@
 ## **README.md**
 
-### **Descubra suas próximas séries favoritas!** 
+### **Descubra suas próximas séries favoritas!** imersão DEV com Google Gemini
 
 **O que faz essa aplicação?**
 
